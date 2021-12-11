@@ -1,0 +1,5 @@
+num = input()
+num1 = int(num)
+num2 = input()
+num3 = int(num2)
+print(num1 + num3)
